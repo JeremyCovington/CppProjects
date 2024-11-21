@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int length = 4;
+    int length = 5;
     int width = 5;
     int area = length * width;
     int x = 4;
